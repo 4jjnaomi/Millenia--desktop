@@ -1,0 +1,23 @@
+div.body{
+    background-color:#8885de;
+}
+div h2{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 10px 0px;
+    text-align: center;
+    font-family: RussoOne-Regular;
+}
+div.form{
+    width: 60%;
+    margin: 0 auto;
+}
+label{
+    font-family: RussoOne-Regular;
+}
+p{
+    text-align: center;
+    font-family: RussoOne-Regular;
+    font-size:20px;
+}

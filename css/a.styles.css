@@ -1,0 +1,51 @@
+@font-face {
+    font-family: RussoOne-Regular;
+    src: url(RussoOne-Regular.ttf);
+}
+@media screen and (max-width:415px){
+    .main, .side, .row{
+      flex: 100%;
+    }} 
+    h2{font-size: x-large;}
+body{
+    width: auto;
+}
+h1{
+    font-size: 70px;
+    margin: 10px 0;
+    font-family: RussoOne-Regular;
+}
+h1#MILLENIA{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #34373b
+}
+div.navbox{
+    padding:20px 0px;
+}
+nav.navbox{
+    background-color: #5e8ebd;
+    font-size: 25px;
+    padding: 10px;
+}
+nav ul{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin: 0px;
+    font-family: RussoOne-Regular;
+    font-size: 30px;
+}
+ul{
+    margin: 0px;
+}
+div.footer{
+    padding:20px 0px;
+}
+nav.footer{
+    background-color: #5e8ebd;
+    font-size: 20px;
+    padding: 5px;
+}

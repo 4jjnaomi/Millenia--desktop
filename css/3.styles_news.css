@@ -1,0 +1,15 @@
+div h2{
+    background-color:grey;
+    font-size: 40px;
+    color: white;
+    margin: 0px;
+    text-align: center;
+    font-family: RussoOne-Regular;
+}
+p{
+    background-color:grey;
+    font-size: 20px;
+    color: white;
+    margin: 0px;
+    height: 500px;
+}
